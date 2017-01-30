@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<body>
+
+h1 {color: blue;
+background-color: pink;
+text-align: center;}
+
+  p:first-child {
+      background-color: yellow;  }
+      
+p2 {background-color: lilac;}
+
+
+blockquote
+    {display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 100px;
+    margin-right: 100px;}
+
+
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+
+  li a {
+      display: block;
+      width: 60px;
+      background-color: #dddddd;
+  }
+
+<button type="button"
+onclick="alert("Seek the LORD while he may be found; call upon him while he is near." Isaiah 55:6!')">
+Click Me!</button>
+
+</body>
+</html>
