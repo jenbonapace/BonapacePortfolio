@@ -1,0 +1,27 @@
+
+.nav {font size:18;
+  color: Red;
+background-color: grey;}
+
+#fork {
+  color:white;
+}
+
+
+footer{color:blue;
+background-color: pink;}
+
+a:hover{background-color: pink;}
+a:visited {background-color: yellow;}
+/*.firstrow .column
+ {
+  background-color: pink;
+  color:black;
+  border-style: dotted;
+}
+
+.secondrow .columns
+{
+    background-color: blue;
+    color:white;
+    border-style: dotted;}*/
